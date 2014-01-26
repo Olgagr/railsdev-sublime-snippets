@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[expect(:${1:var}).to be_true $2 ]]></content>
+	<content><![CDATA[expect(${1:var}).to be_true $2 ]]></content>
 	<tabTrigger>exptt</tabTrigger>
 	<string>source.ruby.rspec</string>
 	<description>RSpec Expect-To-Be_True</description>
