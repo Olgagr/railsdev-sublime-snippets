@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[expect(${1:var}).to include($2) ]]></content>
+	<tabTrigger>exptinc</tabTrigger>
+	<string>source.ruby.rspec</string>
+	<description>RSpec Expect-To-Include</description>
+</snippet>
